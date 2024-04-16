@@ -1,11 +1,11 @@
 data:
   - id: welcome-announcement
-    title: Welcome to the Frigade demo!
+    title: Welcome to the EduX demo!
     subtitle: |
-      This demo showcases some of the UI components and onboarding functionality that Frigade offers.
-      The demo contains a traditional multi-step registration form followed by a showcase of Frigade experiences.
+      This demo showcases what the process of what onboarding student users looks like. 
+      The demo contains a traditional multi-step registration form followed by a showcase of EduX custom components.
     type: callToAction
-    primaryButtonTitle: Start demo
-    secondaryButtonTitle: View website
-    secondaryButtonUri: https://frigade.com
+    primaryButtonTitle: Start Demo
+    secondaryButtonTitle: View Website
+    secondaryButtonUri: https://www.edux.ai
     imageUri: https://app.frigade.com/images/onboarding/welcome-modal.svg
