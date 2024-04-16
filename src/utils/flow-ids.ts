@@ -3,7 +3,7 @@
 // View content in /example-configs/onboarding_form.config.yml
 export const FLOW_ID_ONBOARDING_FORM = 'flow_UMMgCreCvittYd68';
 // View content in /example-configs/welcome_form.config.yml
-export const FLOW_ID_WELCOME_FORM_MODAL = 'flow_6iuuuELhADXddJ6v';
+export const FLOW_ID_WELCOME_FORM_MODAL = '/example-configs/welcome_form.config.yml';
 
 // Flows on dashboard page
 // View content in /example-configs/checklist.config.yml
