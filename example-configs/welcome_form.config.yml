@@ -8,4 +8,4 @@ data:
     primaryButtonTitle: Start Demo
     secondaryButtonTitle: View Website
     secondaryButtonUri: https://www.edux.ai
-    imageUri: https://app.frigade.com/images/onboarding/welcome-modal.svg
+    imageUri: https://github.com/AhmedIbreljic/React-Demo/blob/main/src/components/icons/welcome-modal.png
