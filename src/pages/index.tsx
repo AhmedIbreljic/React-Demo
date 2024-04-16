@@ -110,7 +110,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Frigade + Next.js Demo app</title>
+        <title>EduX Demo App</title>
         <meta
           property='og:image'
           content='https://frigade.com/img/frigademetaimage.png'
