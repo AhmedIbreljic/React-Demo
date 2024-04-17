@@ -1,7 +1,7 @@
 // Flows on index page
 
 // View content in /example-configs/onboarding_form.config.yml
-export const FLOW_ID_ONBOARDING_FORM = 'flow_UMMgCreCvittYd68';
+export const FLOW_ID_ONBOARDING_FORM = 'flow_pXffR8sM';
 // View content in /example-configs/welcome_form.config.yml
 export const FLOW_ID_WELCOME_FORM_MODAL = 'flow_bCpFPJNw';
 
