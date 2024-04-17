@@ -1,5 +1,5 @@
 data:
-  - id: welcome-announcement
+- id: welcome-announcement
     title: Welcome to the EduX demo!
     subtitle: |
       This demo showcases what the process of what onboarding student users looks like. 
